@@ -47,3 +47,16 @@ html, body
     font-family: 'Nunito';
     src: url('fonts/Nunito-Variable.ttf');
 }
+
+/*
+====================================
+UTILITY CLASSES
+====================================
+*/
+
+.flex-center 
+{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
